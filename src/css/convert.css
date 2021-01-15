@@ -1,0 +1,32 @@
+body.convert {
+	font-family: arial !important
+}
+.convert h1 {
+	color: #fff !important;
+	padding-top: .4rem;
+	padding-bottom: .5rem;
+	font-size: 1.25rem;
+	background-color: #343a40 !important; 
+}
+
+.convertContainer {
+	background-color: #fff
+}
+
+.convert option {
+	color: #6c757d;
+	font-size: 1rem;
+}
+
+.convert input {
+	width: 70%; 
+}
+
+.convert .form-group
+{
+	width: 70%;
+	margin-left: 50px;
+	margin-left: 150px;
+	 
+}
+ 
